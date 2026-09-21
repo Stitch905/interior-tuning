@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stitch905.github.io/interior-tuning/sitemap.xml
